@@ -4,7 +4,7 @@ This repository showcases two CNN image classifiers trained using different arch
 
 ## All - CNN Net Architecture using Keras 
 
-Inspired by the [Striving for Simplicity - All Convolution Net](https://arxiv.org/abs/1412.6806) paper, this model is a modified version of the All-CNN architecture, achieving 90% accuracy. The architecture includes changes like using max-pooling instead of a fully convolutional network, while maintaining around 1.3 million trainable parameters. These alterations were made intentionally to study the impact of specific layers in convolutional neural networks.
+Inspired by the [Striving for Simplicity - All Convolution Net](https://arxiv.org/abs/1412.6806) paper, this model is a modified version of the All-CNN architecture, achieving 95% accuracy. The architecture includes changes like using max-pooling instead of a fully convolutional network, while maintaining around 1.3 million trainable parameters. These alterations were made intentionally to study the impact of specific layers in convolutional neural networks.
 
 ![Net](Net_Keras/cnn_architecture.png "Net") 
 
